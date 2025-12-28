@@ -1,0 +1,10 @@
+main: com.mobpickup.PickupMobs
+version: 1.0
+name: PickupMobs
+author: Vvis
+api-version: 1.13
+
+commands:
+  mobbucket:
+    description: Prints the mob you are looking at
+    usage: /mobbucket
